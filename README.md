@@ -1,4 +1,4 @@
-# python_client_server
+# Simple server client python app
 
 
 A client server application .
