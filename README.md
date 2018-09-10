@@ -16,19 +16,21 @@ Python 2.7.13 :: Anaconda custom (x86_64)
 
 ### micro service execution 
 how to run -> python service_starter.py 
+
 flask is used and listens on localhost:5000
+
 endpoints
+
 /increase?value=x
+
 /decrease?value=x
 
 Flask has been used.
 
 ### python client code 
-how to run -> python atm_client.py 
+how to run -> python atm_client.py
+
 sends requests to localhot:5000
 
-endpoints
-/increase?value=x
-/decrease?value=x
 
 
