@@ -5,7 +5,6 @@
 ## Logic of the application 
 
 We publish  2 endpoints that can increase and decrease the value of a global parameter stored in our service.
-
 In our service we maintain logic such as we do not allow the value of this parameter to be either larger of 100 or less that -100.
 
 Our endpoints published give the possibility to the user to select the value that will be added or reduced from the global param
